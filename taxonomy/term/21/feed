@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://digitalhps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital|HPS - National Center for Scientific Research (CNRS)</title>
+ <link>https://digitalhps.org/www.cnrs.fr</link>
+ <description>Visit the CNRS website
+</description>
+ <language>en</language>
+<item>
+ <title>Henri Poincaré Papers</title>
+ <link>https://digitalhps.org/node/22</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The website Henri Poincaré Papers features curated publications, correspondence and manuscripts related to the French polymath Henri Poincaré (1854-1912).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Editor:&lt;/strong&gt;&lt;br /&gt;
+Scott A. Walter (&lt;a href=&quot;http://www.univ-nantes.fr/scott-walter&quot;&gt;http://www.univ-nantes.fr/scott-walter&lt;/a&gt;), University of Nantes, Faculty of Science and Technology, and Atlantic Center for Philosophy (EA 7463)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-website-url field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Website URL:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://henripoincarepapers.univ-nantes.fr/&quot;&gt;http://henripoincarepapers.univ-nantes.fr/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sponsor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/www.agence-nationale-recherche.fr&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Agence nationale de la recherche (ANR)&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/www.cnrs.fr&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;National Center for Scientific Research (CNRS)&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/www.univ-nantes.fr/english&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;University of Nantes&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 06 Feb 2013 05:56:59 +0000</pubDate>
+ <dc:creator>eloneil</dc:creator>
+ <guid isPermaLink="false">22 at https://digitalhps.org</guid>
+ <comments>https://digitalhps.org/node/22#comments</comments>
+</item>
+</channel>
+</rss>

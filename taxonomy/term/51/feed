@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://digitalhps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital|HPS - site updates</title>
+ <link>https://digitalhps.org/taxonomy/term/51</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Biodiversity Heritage Library to launch powerful new user interface</title>
+ <link>https://digitalhps.org/node/147</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Historians of science, rejoice! The Biodiversity Heritage Library is set to launch a new user interface March 18th. The new look and feel of the website has been designed to enhance discovery and usability of the website. Check out the &lt;a href=&quot;https://docs.google.com/a/asu.edu/document/d/1XXFm4MsAEX-3iZq7UlZDGvxkZHvFztf0gcINEfDU27s/pub&quot;&gt;Guide to the New BHL&lt;/a&gt; for all the details. &lt;/p&gt;
+&lt;p&gt;Users searching through the 2 million records within the digital library will now be able to navigate within books by accessing multiple columns of pages, and creating their own custom PDF for export. Finding those resources will also be easier, as over 80,000 articles have been indexed already, with more being added daily. The new Advanced Search feature will allow for greater specificity, and basic browsing features have also been updated. &lt;/p&gt;
+&lt;p&gt;For all the details of the launch, check the &lt;a href=&quot;http://blog.biodiversitylibrary.org/&quot;&gt;Biodiversity Heritage Library Blog&lt;/a&gt;, and follow BHL&#039;s &lt;a href=&quot;https://twitter.com/BioDivLibrary&quot;&gt;Twitter&lt;/a&gt; and &lt;a&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/63&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Biodiversity Heritage Library&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/51&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;site updates&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 05 Mar 2013 17:54:42 +0000</pubDate>
+ <dc:creator>eloneil</dc:creator>
+ <guid isPermaLink="false">147 at https://digitalhps.org</guid>
+ <comments>https://digitalhps.org/node/147#comments</comments>
+</item>
+<item>
+ <title>A new web presence for Digital HPS!</title>
+ <link>https://digitalhps.org/node/138</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;At the &lt;a href=&quot;node/38&quot;&gt;most recent meeting&lt;/a&gt; of the Digital HPS Consortium, we decided to develop a new webpage to provide a more accessible clearing-house for information and resources, and to improve dissemination and growth of the dHPS community. To that end a team at &lt;a href=&quot;node/45&quot;&gt;Arizona State University Center for Biology and Society&lt;/a&gt;, led by PhD student &lt;a&gt;Erica O&#039;Neil&lt;/a&gt;, has created a new Drupal-based website at &lt;a href=&quot;http://www.digitalhps.org&quot;&gt;digitalHPS.org&lt;/a&gt;. The new site show-cases projects, people, and institutions that participate in the Digital HPS Consortium, and the open source tools for dHPS research and publishing developed by those participants. The site also provides information about both past and upcoming meetings of the Consortium. In the coming weeks, additional resources -- such as manuals, tutorials, and other content -- contributed by Consortium Participants will be added to the site.&lt;/p&gt;
+&lt;p&gt;All Consortium participants are encouraged to send updated information, relevant content, and suggestions for site features to Erica O&#039;Neil (&lt;a href=&quot;mailto:eloneil@asu.edu&quot;&gt;eloneil@asu.edu&lt;/a&gt;).&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/51&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;site updates&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;consortium&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 08 Feb 2013 01:16:30 +0000</pubDate>
+ <dc:creator>Erick Peirson</dc:creator>
+ <guid isPermaLink="false">138 at https://digitalhps.org</guid>
+ <comments>https://digitalhps.org/node/138#comments</comments>
+</item>
+</channel>
+</rss>
