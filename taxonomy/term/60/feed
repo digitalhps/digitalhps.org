@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://digitalhps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital|HPS - Indiana University</title>
+ <link>https://digitalhps.org/taxonomy/term/60</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>2013 Digital HPS Consortium Meeting Finalized</title>
+ <link>https://digitalhps.org/node/152</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Digital HPS Consortium will hold its annual workshop and meeting September 6 and 7, 2013, at Indiana University Bloomington. &lt;a href=&quot;http://digitalhps.org/node/84&quot;&gt;Bill Newman&lt;/a&gt; and &lt;a href=&quot;http://digitalhps.org/node/65&quot;&gt;Wally Hooper&lt;/a&gt; will be hosting the event, and can be contacted with further questions regarding travel and logistics. The program itinerary is forthcoming, and if you would like to participate please contact Bill and Wally with an abstract for your proposal as soon as possible.&lt;/p&gt;
+&lt;p&gt;For detailed travel information, visit the meetings page: &lt;a&gt;&quot;Digital HPS Meeting 2013: Bloomington, IN&quot;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We hope to see you all there!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/53&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;meetings&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;consortium&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/60&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Indiana University&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 12 Apr 2013 19:53:08 +0000</pubDate>
+ <dc:creator>eloneil</dc:creator>
+ <guid isPermaLink="false">152 at https://digitalhps.org</guid>
+ <comments>https://digitalhps.org/node/152#comments</comments>
+</item>
+<item>
+ <title>Upcoming Consortium Colloquium at Indiana University Bloomington </title>
+ <link>https://digitalhps.org/node/144</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A Computational Research System for the History of Science and its Connections to Bioinformatics&lt;br /&gt;
+Manfred Laubichler, Julia Damerow, &amp;amp; Erick Peirson of Arizona State University&lt;/p&gt;
+&lt;p&gt;Computational methods and perspectives can transform the history of science by enabling the pursuit of novel types of questions, expanding dramatically the scale of analysis (geographically and temporally) and offering novel forms of publication that greatly enhance access and transparency. In this talk we present a brief summary of a computational research system for the history of science, introduce some of the tools and use cases, discuss its implications for research, education and publication practices and its connections to the open access movement and similar transformations in the natural and social sciences emphasizing big data. One of the connections of this approach is with genomics and we will explore the isomorphic structure between different types of historically evolving information systems, such as genomes and science. We also argue that computational approaches help to reconnect the history of science to individual scientific disciplines.&lt;/p&gt;
+&lt;p&gt;Tuesday, February 19, 2013&lt;br /&gt;
+Swain Hall West 007&lt;br /&gt;
+4:30-6:00 p.m.&lt;/p&gt;
+&lt;p&gt;Sponsored by the Catapult Center for Digital Humanities &amp;amp; Computational Analysis of Texts&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;consortium&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/53&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;meetings&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/60&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Indiana University&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 14 Feb 2013 04:15:14 +0000</pubDate>
+ <dc:creator>eloneil</dc:creator>
+ <guid isPermaLink="false">144 at https://digitalhps.org</guid>
+ <comments>https://digitalhps.org/node/144#comments</comments>
+</item>
+</channel>
+</rss>
